@@ -1,0 +1,46 @@
+/* External Method */
+*{
+    /* font-family:'Times New Roman; */
+    /* font-family: calibri; */
+    text-align: center;
+    background-color: aqua;
+    
+}
+/* selection  Method*/
+
+/* By Name Method */
+ p{     
+    color: black;
+    background-color: yellow;
+}
+
+#heading1{
+    color: chartreuse;
+    background-color: crimson;
+    text-align: left;
+    text-align: end;
+}
+#heading2{
+    color: violet;
+    background-color: black;
+    text-align: right;
+}
+#heading3{
+    color: yellow;
+    background-color: pink;
+    text-align: left;
+}
+#heading4{
+    color: brown;
+    background-color: darksalmon;
+    text-align: right;
+}
+.para{
+    color: orange;
+    background-color: black;
+}
+.para2{
+    color: beige;
+    background-color: black;
+
+}
